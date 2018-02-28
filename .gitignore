@@ -1,0 +1,8 @@
+.project
+.classpath
+.settings/
+target/
+*.xls
+*.xlsx
+*.iml
+.idea/
